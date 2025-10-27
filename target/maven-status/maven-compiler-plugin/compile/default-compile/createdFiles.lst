@@ -1,0 +1,7 @@
+com\museo\backend\controller\ArtworkController.class
+com\museo\backend\model\Artwork.class
+com\museo\backend\service\ArtworkService.class
+com\museo\backend\repository\ArtworkRepository.class
+com\museo\backend\config\DataLoader.class
+com\museo\backend\config\SecurityConfig.class
+com\museo\backend\MuseoBackendApplication.class
